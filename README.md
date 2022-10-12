@@ -26,5 +26,6 @@ pg_dump (PostgreSQL) 14.3
 You can search for other packages at [search.nixos.org](https://search.nixos.org)
 
 **If you found this useful**
+
 ... drop me a line at [aryeh.fun](https://aryeh.fun)
 
